@@ -1,2 +1,2 @@
 # hello-world
-Hello
+Hello Im currently a student at depaul majoring in MIS. 
